@@ -55,7 +55,6 @@ education:
     date_end: 12-2025
     summary: |
       GPA: 3.778/4.0
-
     relavent course work 
 
   - area: BS Electrical Engineering
