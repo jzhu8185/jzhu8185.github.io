@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Jenny Zhu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Jenny
+last_name: Zhu
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,29 +23,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:jzhu8185@mail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/jenny-zzn-zhu/
 
 interests:
   - Large Language Models
@@ -54,44 +48,39 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: BS/MS Electrical Engineering 
+    institution: University at Buffalo 
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 08-2022
+    date_end: 12-2025
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      GPA: 3.778/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+    //relavent course work 
 
-      Minored in Mathematics. President of AI Club.
+  - area: BS Electrical Engineering
+    institution: University at Buffalo 
+    icon: ""
+    date_start: 08-2022
+    date_end: 06-2025
+    summary: |
+      GPA: 3.656/4.0
+
+      //relavent course work 
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Test Engineer Intern
+    company_name: Viridi Parente
+    company_url: 'https://viridiparente.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 02 2025
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+      • Developed and standardized an ISO 6789 compliant torque calibration system with certificates, restructured and integrated automation to improve process efficiency, tool reliability and traceability  
+      • Supported production development by performing system-level troubleshooting on battery cyclers to improve reliable 
+testing and improving data accuracy and by designing 3D printed production prototypes 
+      • Contributed to executing requalification tests and the development of test plans for next generation battery systems 
+      • Supported regulatory certification efforts by preparing test setups and documentation for Intertek and UL compliance 
   - position: AI Research Intern
     company_name: OpenAI
     company_url: 'https://openai.com/'
