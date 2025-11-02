@@ -76,11 +76,11 @@ work:
     date_start: 02 2025
     date_end: ''
     summary: |2-
-    • Developed and standardized an ISO 6789 compliant torque calibration system with certificates, restructured and integrated automation to improve process efficiency, tool reliability and traceability
-    • Supported production development by performing system-level troubleshooting on battery cyclers to improve reliable 
+      • Developed and standardized an ISO 6789 compliant torque calibration system with certificates, restructured and integrated automation to improve process efficiency, tool reliability and traceability
+      • Supported production development by performing system-level troubleshooting on battery cyclers to improve reliable 
 testing and improving data accuracy and by designing 3D printed production prototypes
-    • Contributed to executing requalification tests and the development of test plans for next generation battery systems
-    • Supported regulatory certification efforts by preparing test setups and documentation for Intertek and UL compliance 
+      • Contributed to executing requalification tests and the development of test plans for next generation battery systems
+      • Supported regulatory certification efforts by preparing test setups and documentation for Intertek and UL compliance 
   - position: AI Research Intern
     company_name: OpenAI
     company_url: 'https://openai.com/'
