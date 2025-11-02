@@ -56,7 +56,7 @@ education:
     summary: |
       GPA: 3.778/4.0
 
-    //relavent course work 
+    relavent course work 
 
   - area: BS Electrical Engineering
     institution: University at Buffalo 
@@ -66,7 +66,7 @@ education:
     summary: |
       GPA: 3.656/4.0
 
-      //relavent course work 
+      relavent course work 
 
 work:
   - position: Test Engineer Intern
